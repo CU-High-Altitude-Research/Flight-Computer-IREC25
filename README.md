@@ -1,5 +1,5 @@
 # Flight Computer VersionA1.1
-<img src="img/3dmodel.png" alt="pcb_model" width="500"/> <img src="img/schematic.png" alt="pcb_model" width="400"/>
+<img src="img/3dmodel.png" alt="pcb_model" width="700"/> <img src="img/schematic.png" alt="pcb_model" width="700"/>
 ## Changes
 - new layout
 - added debug LED
