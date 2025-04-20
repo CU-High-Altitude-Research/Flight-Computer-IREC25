@@ -1,4 +1,5 @@
 # Flight Computer VersionA1.1
+![pcb_model](img/3dmodel.png)
 ## Changes
 - new layout
 - added debug LED
